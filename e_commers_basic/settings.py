@@ -8,7 +8,6 @@ https://docs.djangoproject.com/en/5.0/topics/settings/
 
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.0/ref/settings/
-this projected is created by prakash22suthar@gmail.com
 """
 
 from pathlib import Path
@@ -162,9 +161,3 @@ SIMPLE_JWT = {
     "ROTATE_REFRESH_TOKENS": False,
 }
 
-
-
-
-
-
-# Created By: Prakash Suthar 
